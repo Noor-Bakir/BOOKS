@@ -794,3 +794,39 @@ a:focus {
   color: inherit;
 }
 /*# sourceMappingURL=style.css.map */
+/*sign in*/
+.title {
+    text-align: center; 
+    color: #666666; 
+}
+
+
+label {
+    display: block; 
+    margin-bottom: 5px;
+    color: #666666; 
+}
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 8px; 
+    margin-bottom: 10px; 
+    border: 1px solid #cccccc; 
+    border-radius: 5px; 
+}
+
+/* Sign In */
+.signin-btn {
+    width: 100%; 
+    padding: 8px; 
+    background-color: #f2f2f2; 
+    border: 1px solid #cccccc; 
+    border-radius: 5px; 
+    text-align: center; 
+}
+
+
+.signin-btn a {
+    text-decoration: none; 
+    color: #666666; 
+}
